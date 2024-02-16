@@ -1,5 +1,5 @@
 ## 👋 Hi! , I’m Alejandra Pedraza
-I’m a Multimedia Engineering Student, with knowlegds with knowledges in front end development, image processing and computer vision.
+I’m a Multimedia Engineering Student, with knowledges in front end development, image processing and computer vision.
 
 ![HTML](https://img.shields.io/badge/-HTML5-orange?style=flat-square&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS3-blue?style=flat-square&logo=css3&logoColor=white)
