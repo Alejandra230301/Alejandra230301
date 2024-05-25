@@ -10,6 +10,7 @@ I’m a Multimedia Engineering, with knowledges in front end development, image 
 
 ![PYTON](https://img.shields.io/badge/-Python-black?style=flat&logo=python)
 ![JAVA](https://img.shields.io/badge/-Java-red?style=flat&logo=springboot)
+
 ![GIT](https://img.shields.io/badge/-Git-red?style=flat&logo=git&logoColor=white)
 ![GITHUB](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github)
 
