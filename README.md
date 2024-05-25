@@ -1,12 +1,13 @@
 ## 👋 Hi! , I’m Alejandra Pedraza
-I’m a Multimedia Engineering Student, with knowledges in front end development, image processing and computer vision.
+I’m a Multimedia Engineering, with knowledges in front end development, image processing and computer vision.
 
 ![HTML](https://img.shields.io/badge/-HTML5-orange?style=flat-square&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS3-blue?style=flat-square&logo=css3&logoColor=white)
 ![JS](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)
+![REACT.JS](https://img.shields.io/badge/-ReactJS-lightblue?style=flat&logo=reactjs)
 ![PYTON](https://img.shields.io/badge/-Python-black?style=flat&logo=python)
 ![JAVA](https://img.shields.io/badge/-Java-red?style=flat&logo=springboot)
-![MYSQL](https://img.shields.io/badge/-MySQL-2d638f?style=flat&logo=mysql&logoColor=white)
+
 ![GITHUB](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github)
 
 <!---
