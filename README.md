@@ -4,7 +4,7 @@ I’m a Multimedia Engineering, with knowledges in front end development, image 
 ![HTML](https://img.shields.io/badge/-HTML5-orange?style=flat-square&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS3-blue?style=flat-square&logo=css3&logoColor=white)
 ![JS](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)
-![REACT.JS](https://img.shields.io/badge/-ReactJS-lightblue?style=flat&logo=reactjs)
+![REACT.JS](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white)
 ![PYTON](https://img.shields.io/badge/-Python-black?style=flat&logo=python)
 ![JAVA](https://img.shields.io/badge/-Java-red?style=flat&logo=springboot)
 
